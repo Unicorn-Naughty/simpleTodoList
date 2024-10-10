@@ -1,4 +1,4 @@
-# BreadcrumbssimpleTodoList
+# simpleTodoList
 
 Простое приложения todoList.
 
@@ -14,16 +14,16 @@
 
 1. Клонирование репозитория 
 
-```git clone https://github.com/Unicorn-Naughty/WeatherApp.git```
+```git clone https://github.com/Unicorn-Naughty/simpleTodoList.git```
 
-2. Переход в директорию WeatherApp
+2. Переход в директорию simpleTodoList
 
-```cd WeatherApp```
+```cd simpleTodoList```
 
 3. Установка зависимостей
 
 ```npm install ```
 
-6. Запуск для демонстрации возможностей WeatherApp
+6. Запуск для демонстрации возможностей simpleTodoList
 
 ```npm run dev```
