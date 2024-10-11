@@ -1,6 +1,6 @@
 # simpleTodoList
 
-Простое приложения todoList.
+Простое приложение todoList.
 
 # Stack
 
